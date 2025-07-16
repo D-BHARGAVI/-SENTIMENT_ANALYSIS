@@ -37,5 +37,15 @@ Output:
 The notebook contains all steps, results, and accuracy scores.
 
 Screenshots:
+1. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/9593700f-2d4c-4c18-a9ae-1aed107f347d" />
 
+2. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/940b14b7-a901-4ede-a2be-931903fe40b8" />
+
+3. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/ea90e9ea-65c3-4a70-9f05-0e8b71cc2bb1" />
+
+4. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/2c6b19e9-a00b-47ff-8234-900f94901e7a" />
+
+5. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/97d13034-3449-4a88-a64c-9672a43209f0" />
+
+6. <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/95a9b59c-219a-4ea0-879a-437368bfae44" />
 
